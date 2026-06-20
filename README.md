@@ -3,10 +3,10 @@ Name: 黃睿恩 Ryan
 Student ID:113370229
 
 ## Project Repository
-https://github.com/[你的GitHub帳號]/[你的專案名稱]
+https://github.com/113370229/Final_Project
 
 ## Presentation Video
-https://youtube.com/watch?v=[你的YouTube影片代碼]
+https://youtu.be/_rZmJcpyTCo
 
 ---
 
